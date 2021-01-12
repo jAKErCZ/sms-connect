@@ -1,5 +1,5 @@
 {
-    "name": "smsbrana/sms-connect",
+    "name": "jakercz/sms-connect",
     "type": "library",
     "description": "Send and receive SMS with PHP",
     "keywords": ["sms"],
@@ -10,6 +10,11 @@
             "name": "Pavel Ryznar",
             "email": "pryznar@gmail.com",
             "homepage": "https://github.com/smsbrana/sms-connect/graphs/contributors"
+        },
+        {
+            "name": "Dominik Korčák",
+            "email": "studio@jakercz-studios.eu",
+            "homepage": "https://www.jakercz-studios.eu/"
         }
     ],
     "require": {
