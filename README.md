@@ -10,7 +10,7 @@ Send and receive SMS with PHP (for Czech Republic)
 
 via composer:
 
-    $ composer require smsbrana/sms-connect
+    $ composer require jakercz/sms-connect
 
 ## Usage
 
